@@ -5,7 +5,7 @@
 <!--App.vue-->
 <template>
   <div id="app">
-    app
+    app app
   </div>
 </template>
 

@@ -5,7 +5,6 @@
 <!--App.vue-->
 <template>
   <div id="app">
-    sdfsdfdd
   </div>
 </template>
 
